@@ -2,7 +2,7 @@
 
 # <img src="https://raw.githubusercontent.com/MartinVerreault/MartinVerreault/master/Assets/Hi.gif" width="30"> I'm Somuel Tripura
   
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=45A1FF&center=true&vCenter=true&width=500&lines=Software+Developer;DevOps Engineer;React+Frontend+Expert;TALL+Stack+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=45A1FF&center=true&vCenter=true&width=500&lines=Software+Developer;Laravel+Enthusiast;React+Frontend+Expert;TALL+Stack+Developer" alt="Typing SVG" />
 
 ---
 
