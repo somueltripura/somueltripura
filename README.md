@@ -32,3 +32,19 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
 </p>
+
+---
+
+### 📈 My GitHub Journey
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=somueltripura&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/somueltripura/somueltripura/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+</p>
