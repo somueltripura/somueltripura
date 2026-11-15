@@ -2,14 +2,14 @@
 
 # <img src="https://raw.githubusercontent.com/MartinVerreault/MartinVerreault/master/Assets/Hi.gif" width="30"> I'm Somuel Tripura
   
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=45A1FF&center=true&vCenter=true&width=500&lines=Software+Developer;Laravel+Enthusiast;React+Frontend+Expert;TALL+Stack+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=45A1FF&center=true&vCenter=true&width=500&lines=Software+Developer;Laravel+Enthusiast;React+Frontend+Expert;Full+Stack+Developer" alt="Typing SVG" />
 
 ---
 
 ### 🧑‍💻 About Me
 
 <p align="center">
-  A passionate <b>CSE Student</b> & aspiring <b>DevOps Engineer</b> from Khagrachhari, Bangladesh 🇧🇩.<br>
+  A passionate <b>CSE Student</b> & aspiring <b>DevOps Engineer</b> from Dhaka, Bangladesh 🇧🇩.<br>
   Focused on Linux, cloud technologies, automation, Docker, and CI/CD pipelines.<br>
   Building software infrastructure and web applications with Python, FastAPI, and modern web tech.
 </p>
