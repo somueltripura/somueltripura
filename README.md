@@ -1,4 +1,8 @@
-<h1 align="center">Hi there, I'm Somuel Tripura 👋</h1>
+<div align = "center">
+
+# <img src="https://raw.githubusercontent.com/MartinVerreault/MartinVerreault/master/Assets/Hi.gif" width="30"> I'm Somuel Tripura
+  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=45A1FF&center=true&vCenter=true&width=500&lines=Software+Developer;DevOps Engineer;React+Frontend+Expert;TALL+Stack+Developer" alt="Typing SVG" />
 
 ---
 
@@ -44,7 +48,8 @@
 ---
 
 ### 🐍 Contribution Snake
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/somueltripura/somueltripura/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+  <img src="https://raw.githubusercontent.com/RomanaIdressEkfa/RomanaIdressEkfa/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+
+</div>
